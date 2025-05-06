@@ -355,15 +355,3 @@ Example payload:
 🔹 Expand automation to handle different types of incidents.  
 
 ---
-
-## 📜 License  
-This project is licensed under the **MIT License**.  
-
----
-
-## 📬 Contact  
-👤 **Author:** [Nitin Sharma](https://github.com/malwarekid)  
-💻 **Instagram:** [Malwarekid](https://instagram.com/malwarekid)  
-📧 **LinkedIn:** [Connect](https://www.linkedin.com/in/-nitinsharma/)  
-
----
