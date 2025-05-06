@@ -348,10 +348,3 @@ Example payload:
 ![Discord Alert Example](https://github.com/user-attachments/assets/a09381ef-287a-4878-b0e6-319efa6d7162)
 
 ---
-
-## 🎯 Future Enhancements  
-🔹 Add auto-mitigation (e.g., blocking attacker IPs via firewall rules).  
-🔹 Integrate more threat intelligence feeds (e.g., MISP, Shodan API).  
-🔹 Expand automation to handle different types of incidents.  
-
----
